@@ -10,31 +10,35 @@
 ## Smth about my skills / Кое-что о моих навыках:  
 
 
-🤙 I know and can apply in practice the basics of UX / UI /Знаю и умею применять на практике основы UX/UI  
+🤙 I know and can apply in practice the basics of UX / UI / Знаю и умею применять на практике основы UX/UI
 
-🤙 I create HTML and CSS websites which are adaptive and look cool with different devices: from small smartphones to TVs. / Я создаю HTML и CSS сайты, которые адаптивны и классно смотрятся на разных экранах, от небольших смартфонов, до крупных телевизоров.  
+🤙 I create HTML and CSS websites which are adaptive and look cool with different devices: from small smartphones to TVs. / Я создаю HTML и CSS сайты, которые адаптивны и классно смотрятся на разных экранах, от небольших смартфонов до крупных телевизоров.
 
-🤙 I'm programming in Js and can create various interactive interfaces / Я умею программировать на Js и создаю с помощью него различные интеррактивные интерфейсы.  
+🤙 I'm programming in Js and can create various interactive interfaces / Я умею программировать на Js и создаю с помощью него различные интерактивные интерфейсы.
 
-🤙 I have a big experience in twig and symfony / У меня большой опыт работы с шаблонизатором Twig, я писала на Symfony и Silex. 
+🤙 I have a big experience in twig and symfony / У меня большой опыт работы с шаблонизатором Twig, я писала на Symfony и Silex.
 
-🤙 I'm learning and want to work with frameworks React, Vue and Angular / Я изучаю и хочу работать с фреймворками React, Vue и Angular, чтобы легко собирать веб-приложения из отдельных компонентов, как из деталей конструктора  
+🤙 I’m working with frameworks like React and Angular, creating component-based web applications and improving my skills with Vue / Я активно работаю с фреймворками React и Angular, собираю веб-приложения из компонентов и продолжаю изучать Vue.
 
-🤙 When I'm programming, I can stick to the chair, and I will not leave my laptop until I solve the problem / Когда я пишу код, я буквально прирастаю к креслу, и не выйду из-за компьютера, пока не решу задачу  
+🤙 I can create complex animations and interactive elements / Я умею делать сложные анимации и интерактивные элементы.
 
-💪 And I can and I want to work with a team / И я умею и хочу работать в команде  
+🤙 I’ve built various charts, sliders, and similar dynamic components / Я верстала всевозможные графики, слайдеры и другие динамичные элементы интерфейса.
+
+🤙 When I'm programming, I can stick to the chair, and I will not leave my laptop until I solve the problem / Когда я пишу код, я буквально прирастаю к креслу и не выйду из-за компьютера, пока не решу задачу.
+
+💪 And I can and I want to work with a team / И я умею и хочу работать в команде.  
 
 ---
 
 ## About my personal qualities  / О моих личных качествах:  
 
-😋 I am stress resistant person / Я обладатель высокой стрессоуствойчивости  
+😋 I am stress resistant person / Я очень стрессоустойчива  
 
-🤓 And I learn very quickly  / И высоко обучаема  
+🤓 And I learn very quickly  / И высоко обучаема 
 
 😎 I know almost everything, but if I don’t know smth, thats Google knows / Я знаю почти все, а то, что не знаю, могу легко нагуглить  
 
-😊 And I also love to travel, design clothes, making tattoo for other people and sports, if you're interested / А еще я обожаю путешествовать, создаю женскую одежду, бью людям татуировки и занимаюсь спортом, если тебе интересно.  
+😊 And I also love to travel, design clothes, making tattoo for other people and sports, if you're interested / А еще я обожаю путешествовать, создаю женскую одежду, бью людям татуировки и занимаюсь спортом.  
 
 ---  
 

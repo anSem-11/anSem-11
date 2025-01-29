@@ -3,7 +3,7 @@
 👋 Hi, I’m Ania from Georgia (Batumi)! Nice to meet you here. / Привет, Меня зовут Аня, я живу в Батуми (Грузия)! Приятно познакомиться.  
 
 
-👩 I'm a young (in every sense) front-end developer  😉 Я молодой (во всех смыслах этого слова) фронтенд-разработчик.  
+👩 I'm a markup and front-end developer  😉 Занимаюсь фронтенд-разработкой и обожаю верстать.  
 
 ---
 
